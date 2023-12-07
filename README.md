@@ -5,8 +5,8 @@ I have completed the level 2 tasks:
 - Level 2 TASK 1 : TRIBUTE PAGE
   "Thala Tribute"
   
-  Github Code: https://github.com/vikas-saini-7/thalatribute
-  Live Project Link: https://thala-tribute-vk.vercel.app
+  --Github Code: https://github.com/vikas-saini-7/thalatribute
+  --Live Project Link: https://thala-tribute-vk.vercel.app
 ====================================
 
 - Level 2 TASK 2 : JOB BOARD
