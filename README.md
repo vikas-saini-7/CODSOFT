@@ -6,6 +6,7 @@ I have completed the level 2 tasks:
   "Thala Tribute"
   
   -Github Code: https://github.com/vikas-saini-7/thalatribute
+  <br>
   -Live Project Link: https://thala-tribute-vk.vercel.app
 ====================================
 
