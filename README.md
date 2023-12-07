@@ -3,6 +3,7 @@
 I have completed the level 2 tasks:
 
 - Level 2 TASK 1 : TRIBUTE PAGE
+  <br>
   "Thala Tribute"
   <br>
   -Github Code: https://github.com/vikas-saini-7/thalatribute
@@ -12,6 +13,7 @@ I have completed the level 2 tasks:
 ====================================
 
 - Level 2 TASK 2 : JOB BOARD
+  <br>
   "Jober - Connecting Employers and Job Seekers"
   <br>
   Frontend
