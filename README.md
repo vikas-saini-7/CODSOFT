@@ -8,7 +8,7 @@ I have completed the level 2 tasks:
   -Github Code: https://github.com/vikas-saini-7/thalatribute
   <br>
   -Live Project Link: https://thala-tribute-vk.vercel.app
-  <br>
+  <br><br>
 ====================================
 
 - Level 2 TASK 2 : JOB BOARD
