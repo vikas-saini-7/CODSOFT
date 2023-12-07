@@ -32,4 +32,4 @@ I have completed the level 2 tasks:
 
 -Deployment
 <br>
-I've deployed the project on github and Vercel.
+I've deployed both the projects on github and Vercel.
