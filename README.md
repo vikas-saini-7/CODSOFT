@@ -30,5 +30,6 @@ I have completed the level 2 tasks:
     <br><br>
 ====================================
 
-Deployment
+-Deployment
+<br>
 I've deployed the project on github and Vercel.
