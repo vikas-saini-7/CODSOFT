@@ -16,15 +16,15 @@ I have completed the level 2 tasks:
   <br>
   Frontend
     <br>
-    Github Code:
+    Github Code: https://github.com/vikas-saini-7/jober-vk
     <br>
-    Live Project Link:
+    Live Project Link: https://jober-vk.vercel.app
 
   Backend
     <br>
-    Github Code:
+    Github Code: https://github.com/vikas-saini-7/jober-backend
     <br>
-    Live Project Link:
+    Live Project Link: https://jobr-i1qh.onrender.com
     <br>
 ====================================
 
