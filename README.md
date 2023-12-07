@@ -14,13 +14,13 @@ I have completed the level 2 tasks:
 - Level 2 TASK 2 : JOB BOARD
   "Jober - Connecting Employers and Job Seekers"
   <br>
-  1. Frontend
+  Frontend
     <br>
     Github Code:
     <br>
     Live Project Link:
 
-  2. Backend
+  Backend
     <br>
     Github Code:
     <br>
